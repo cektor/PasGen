@@ -1,3 +1,7 @@
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
+</a>
+
 # PasGen
 An app for creating strong and secure passwords  PasGen is a desktop application that helps users create strong and secure passwords.  The app allows you to choose different character types, length and password type to suit specific needs. Cross Platform Operable
 
