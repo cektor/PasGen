@@ -1,0 +1,24 @@
+Source: pasgen
+Section: security
+Priority: optional
+Maintainer: Fatih Önder <fatih@algyazilim.com>
+Build-Depends: debhelper (>= 12), 
+               python3-all, 
+               python3-setuptools, 
+               python3-stdeb, 
+               python3-pyqt5, 
+               python3-cryptography
+Standards-Version: 4.5.0
+X-Debbugs-CC: debian-devel@lists.debian.org
+Homepage: http://www.algyazilim.com
+
+Package: pasgen
+Architecture: all
+Depends: ${python3:Depends}, 
+         ${misc:Depends}, 
+         python3-cryptography, 
+         python3-pyqt5
+Description: Güçlü ve güvenli parolalar oluşturmak için bir uygulama
+ PasGen, kullanıcıların güçlü ve güvenli parolalar oluşturmasına yardımcı olan bir masaüstü uygulamasıdır.
+ Uygulama, farklı karakter türlerini, uzunluğu ve özel ihtiyaçlara uygun şekilde parola türünü seçmenize izin verir.
+

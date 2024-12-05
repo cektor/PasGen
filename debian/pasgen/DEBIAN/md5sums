@@ -1,0 +1,15 @@
+701d516737d15b34282e5cf40fbe715f  usr/bin/pasgen
+0a3192500c5db6a805a1881bb36723d4  usr/bin/pasgen.py
+10ba42dc91bf773c99d6b9b6d57eb320  usr/lib/python3.11/dist-packages/pasgen-1.0.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3.11/dist-packages/pasgen-1.0.egg-info/dependency_links.txt
+7729d5a1500f61441dbf462beb9bffc4  usr/lib/python3.11/dist-packages/pasgen-1.0.egg-info/entry_points.txt
+8f4059822d699bfa536257c229ebf980  usr/lib/python3.11/dist-packages/pasgen-1.0.egg-info/requires.txt
+ca598b61e064e2dcda2f7b33273efe80  usr/lib/python3.11/dist-packages/pasgen-1.0.egg-info/top_level.txt
+736d258b03dfe51f2795081979920ec0  usr/lib/python3.11/dist-packages/pasgen/__pycache__/pasgen.cpython-311.pyc
+309f86a0aee04a08488be7826f072f85  usr/lib/python3.11/dist-packages/pasgen/pasgen.desktop
+0a3192500c5db6a805a1881bb36723d4  usr/lib/python3.11/dist-packages/pasgen/pasgen.py
+61a374ac0f1a871c0e0fd8013f0a84a2  usr/lib/python3.11/dist-packages/pasgen/pasgenlo.png
+309f86a0aee04a08488be7826f072f85  usr/share/applications/pasgen.desktop
+23acbce64c3f5aa58e77adf3061e7b5b  usr/share/doc/pasgen/changelog.Debian.gz
+0f2062f5e84db36e1a37f9dffba48763  usr/share/doc/pasgen/copyright
+61a374ac0f1a871c0e0fd8013f0a84a2  usr/share/icons/hicolor/48x48/apps/pasgenlo.png

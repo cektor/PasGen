@@ -1,0 +1,12 @@
+Package: pasgen
+Version: 1.0-1
+Architecture: all
+Maintainer: Fatih Önder <fatih@algyazilim.com>
+Installed-Size: 98
+Depends: python3-cryptography, python3-pyqt5
+Section: security
+Priority: optional
+Homepage: http://www.algyazilim.com
+Description: Güçlü ve güvenli parolalar oluşturmak için bir uygulama
+ PasGen, kullanıcıların güçlü ve güvenli parolalar oluşturmasına yardımcı olan bir masaüstü uygulamasıdır.
+ Uygulama, farklı karakter türlerini, uzunluğu ve özel ihtiyaçlara uygun şekilde parola türünü seçmenize izin verir.

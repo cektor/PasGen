@@ -1,0 +1,4 @@
+#!/bin/bash
+pasgen.py usr/bin/
+pasgen.desktop usr/share/applications/
+debian/pasgenlo.png /usr/share/icons/hicolor/48x48/apps/

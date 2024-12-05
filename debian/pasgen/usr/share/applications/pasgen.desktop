@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=PasGen
+Comment=Password Generator Tool
+Exec=python3 /usr/bin/pasgen.py
+Icon=/usr/share/icons/hicolor/48x48/apps/pasgenlo.png
+Terminal=false
+Type=Application
+Categories=Utility;Security;
+
+Name[tr_TR]=PasGen
+Categories[tr_TR]=Yardımcı Programlar;Güvenlik;
+
