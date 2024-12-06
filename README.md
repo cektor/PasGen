@@ -18,7 +18,7 @@ An app for creating strong and secure passwords  PasGen is a desktop application
 ![Linux(pardus)](screenshot/pasgen_linux.png)  
 
 # Windows Screenshot
-![Windows(11)](screenshot/pasgen_windowsv1.png) 
+![Windows(11)](screenshot/pasgen_windows.png) 
 
 --------------------
 Install Git Clone and Python3
